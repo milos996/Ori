@@ -1,0 +1,18 @@
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\bin\Debug\Masinsko Ucenje.exe
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\bin\Debug\Masinsko Ucenje.pdb
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csprojResolveAssemblyReference.cache
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko_Ucenje.Main.resources
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko_Ucenje.Properties.Resources.resources
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csproj.GenerateResource.Cache
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.exe
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.pdb
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\bin\Debug\Masinsko Ucenje.exe
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\bin\Debug\Masinsko Ucenje.pdb
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csprojResolveAssemblyReference.cache
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko_Ucenje.Main.resources
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko_Ucenje.Properties.Resources.resources
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csproj.GenerateResource.Cache
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.exe
+C:\Users\M\Desktop\ORI\vezbe\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.pdb

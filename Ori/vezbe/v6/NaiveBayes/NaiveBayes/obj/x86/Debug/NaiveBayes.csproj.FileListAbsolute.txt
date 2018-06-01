@@ -1,0 +1,7 @@
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\bin\Debug\data\train.tsv
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.exe
+C:\Users\M\Desktop\ori-2018-e2-master\vezbe\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.pdb
